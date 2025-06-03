@@ -4,7 +4,7 @@ import discord
 TOKEN = '<DISCORD BOT TOKEN>'
 
 # Message to send when "thoughts" is detected
-RESPONSE_MESSAGE = f"<@274748598233858048>, thoughts? <ROONEYDOG GIF LINK OR WHATEVER LINK>"
+RESPONSE_MESSAGE = "<Custom Response Message Here>"
 
 # Set up the bot's intents
 intents = discord.Intents.default()
