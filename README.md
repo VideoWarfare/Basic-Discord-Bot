@@ -1,5 +1,3 @@
-# rooneythoughts
-
 # 🔗 Discord Link Monitor Bot
 
 A simple Python-based Discord bot that watches for a specific user posting a specific link, and replies with a custom message tagging another user.
